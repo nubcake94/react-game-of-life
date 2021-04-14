@@ -1,0 +1,19 @@
+.cell {
+    border-right: 1px solid #336699;
+    border-bottom: 1px solid #336699;
+    display: inline-block;
+}
+
+.row {
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+
+.cell-live {
+    background-color: whitesmoke;
+}
+
+.cell-dead {
+    background-color: #2a2d2e;
+}
